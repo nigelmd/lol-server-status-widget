@@ -1,4 +1,4 @@
-![Lol server status widget for Übersicht](https://raw.githubusercontent.com/Xcrucifier/lol-server-status-widget/master/screenshot.jpg)
+![Lol server status widget for Übersicht](https://raw.githubusercontent.com/Xcrucifier/lol-server-status-widget/master/screenshot.png)
 
 # lol-server-status-widget
 An [Übersicht](http://tracesof.net/uebersicht/) widget for Mac to display the League of Legends server status
@@ -20,8 +20,9 @@ Getting Started
 
 3. Configure the widget 
     > Open index.coffee file
-        Replace `apiKey` with your API key, can be generated [here](https://developer.riotgames.com/)  
-        Replace `region` with your region, default **euw**
+    
+    * Replace `apiKey` with your API key, can be generated [here](https://developer.riotgames.com/)  
+    * Replace `region` with your region, default **euw**
 
 ## License
 
